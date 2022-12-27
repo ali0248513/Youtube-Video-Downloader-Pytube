@@ -1,2 +1,2 @@
-# Youtube-Video-Downloader-Pytube
-Youtube Video Downloader Made using python pythube
+# GUI-Youtube-Video-Downloader-Pytube-Pythin
+Youtube Video Downloader made using python pythube
